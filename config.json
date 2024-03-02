@@ -1,8 +1,8 @@
 {
     "token": "YOUR TOKEN HERE",
-    "developerGuild": "GUID ID HERE",
+    "developerGuild": "1211555779790770206",
     "activityInterval": 5,
     "botMainColor": "0xff5454",
     "botErrorColor": "0xdb3535",
-    "database": "MONGO-DB LINK HERE"
+    "database": "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority"
 }
